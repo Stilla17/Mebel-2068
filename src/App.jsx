@@ -4,7 +4,7 @@ import Nav from './Components/Nav/Nav'
 const App = () => {
   return (
     <div>
-      <Nav/>
+      <Nav />
     </div>
   )
 }
