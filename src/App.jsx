@@ -3,9 +3,9 @@ import SectionNew from './Components/SectionNew/SectionNew'
 
 const App = () => {
   return (
-    <>
-     <SectionNew /> 
-    </>
+    <div>
+      <SectionNew />
+    </div>
   )
 }
 

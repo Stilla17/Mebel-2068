@@ -49,6 +49,7 @@ const SectionNew = () => {
               </h1>
               <a className="text-gray-300 underline mt-2 block" href="#">
                 К статье
+                
               </a>
             </div>
           </div>
